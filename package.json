@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/hij1nx/codesurgeon.git" 
+    "url": "http://github.com/hij1nx/codesurgeon.git"
   },
   "keywords": [
     "cli",
@@ -29,7 +29,6 @@
     "eyes": "0.1.x",
     "findit": "0.1.x",
     "jshint": "0.5.x",
-    "jslint-core": "*",
     "traverse": "0.5.x",
     "uglify-js": "1.0.x"
   },
