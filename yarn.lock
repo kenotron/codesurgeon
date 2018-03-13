@@ -62,10 +62,6 @@ jshint@0.5.x:
     argsparser ">=0.0.3"
     minimatch ">=0.0.4"
 
-jslint-core@*:
-  version "2011.1.9"
-  resolved "https://registry.yarnpkg.com/jslint-core/-/jslint-core@2011.01.09.tgz#bf76e7ce412a4e8dafadf5444357f7ae488289e5"
-
 minimatch@>=0.0.4:
   version "3.0.4"
   resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-3.0.4.tgz#5166e286457f03306064be5497e8dbb0c3d32083"

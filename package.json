@@ -1,29 +1,8 @@
 {
-  "name": "codesurgeon",
-  "description": "The Node.js build tool",
+  "name": "codesurgeon-frozen",
+  "description": "Frozen Codesurgeon codebase becase GoDaddy decided to buy Nodejitsu and do nothing with it",
   "version": "0.3.4-1",
-  "author": "Nodejitsu Inc <info@nodejitsu.com>",
-  "contributors": [
-    { "name": "Paolo Fragomeni", "email": "hij1nx@nodejitsu.com" }
-  ],
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/hij1nx/codesurgeon.git"
-  },
-  "keywords": [
-    "cli",
-    "deploy",
-    "browser",
-    "minify",
-    "uglify",
-    "ast",
-    "build",
-    "unit",
-    "test",
-    "make",
-    "jake",
-    "tool"
-  ],
+  "author": "Do NOT credit me for this",
   "dependencies": {
     "colors": "0.6.x",
     "eyes": "0.1.x",
@@ -39,8 +18,5 @@
   "scripts": {
     "test": "nodeunit test/*-test.js"
   },
-  "engines": { "node": ">= 0.4.0" },
-  "scripts": {
-    "test": "nodeunit test/*-test.js"
-  }
+  "engines": { "node": ">= 0.4.0" }
 }
